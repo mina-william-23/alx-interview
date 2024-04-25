@@ -1,4 +1,5 @@
-# Pascal's Triangle is a mathematical construct that follows a simple recursive formula.
+#!/usr/bin/python3
+'''Pascal's Triangle is a mathematical construct that follows a simple recursive formula.'''
 
 
 # Create a function that will return a 2D list representation of Pascal's Triangle up to the nth level.
