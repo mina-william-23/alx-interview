@@ -3,7 +3,7 @@
 
 
 # Create a function that will return a 2D list representation of Pascal's Triangle up to the nth level.
-def generate_pascals_triangle(num_rows):
+def pascal_triangle(num_rows):
     """Generate Pascal's Triangle up to the nth level."""
     triangle = []
 
